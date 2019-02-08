@@ -2,89 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4d383998-15f1-4922-81e1-f32ab98aa556" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.generators" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/.rakeTasks" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/untitled4.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Gemfile.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Rakefile" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/images/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/application_record.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/models/concerns/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/bundle" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rails" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/rake" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/setup" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/update" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/bin/yarn" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config.ru" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/application.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/boot.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/cable.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/database.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environment.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/development.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/production.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/environments/test.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/assets.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/locales/en.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/puma.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/routes.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/config/secrets.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/db/seeds.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/assets/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/tasks/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/log/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/404.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/422.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/500.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/controllers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/helpers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/integration/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/mailers/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/models/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/system/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test/test_helper.rb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tmp/.keep" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/vendor/.keep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/controllers/application_controller.rb" beforeDir="false" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,13 +11,17 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/untitled4@Development__untitled4.rcov" NAME="Development: untitled4 Coverage Results" MODIFIED="1549656581950" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled4" />
+    <SUITE FILE_PATH="coverage/untitled4@Development__untitled4.rcov" NAME="Development: untitled4 Coverage Results" MODIFIED="1549658235555" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="rcov" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" MODULE_NAME="untitled4" />
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file pinned="false" current-in-tab="false">
+      <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-          <provider selected="true" editor-type-id="text-editor" />
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+            </state>
+          </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
@@ -107,7 +29,7 @@
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/Gemfile">
           <provider selected="true" editor-type-id="text-editor" />
         </entry>
@@ -116,6 +38,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/app/controllers/application_controller.rb" />
+      </list>
+    </option>
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -144,6 +73,17 @@
               <item name="untitled4" type="b2602c69:ProjectViewProjectNode" />
               <item name="untitled4" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="untitled4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="untitled4" type="b2602c69:ProjectViewProjectNode" />
+              <item name="untitled4" type="462c0819:PsiDirectoryNode" />
+              <item name="app" type="462c0819:PsiDirectoryNode" />
+              <item name="controllers" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -168,7 +108,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Heroku Deployment.Unnamed">
+  <component name="RunManager" selected="Rails.Development: untitled4">
     <configuration name="Development: untitled4" type="RailsRunConfigurationType" factoryName="Rails">
       <module name="untitled4" />
       <predefined_log_file enabled="true" id="RUBY_RAILS_SERVER" />
@@ -184,8 +124,9 @@
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="PORT" VALUE="3000" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="IP" VALUE="127.0.0.1" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="DUMMY_APP" VALUE="test/dummy" />
-      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="Default" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="RAILS_SERVER_TYPE" VALUE="default" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="ENVIRONMENT_TYPE" VALUE="development" />
+      <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="BROWSER_URL" VALUE="http://127.0.0.1:3000" />
       <RAILS_SERVER_CONFIG_SETTINGS_ID NAME="LAUNCH_JS" VALUE="false" />
       <method v="2" />
     </configuration>
@@ -277,7 +218,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1549656374947</updated>
-      <workItem from="1549656376105" duration="662000" />
+      <workItem from="1549656376105" duration="1828000" />
     </task>
     <task id="LOCAL-00001" summary="Deploy">
       <created>1549656703085</created>
@@ -293,31 +234,46 @@
       <option name="project" value="LOCAL" />
       <updated>1549656768505</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Deploy">
+      <created>1549657151563</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1549657151563</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Deploy">
+      <created>1549657206973</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1549657206973</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="662000" />
+    <option name="totallyTimeSpent" value="1828000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1087" extended-state="0" />
+    <editor active="true" />
     <layout>
       <window_info id="Favorites" side_tool="true" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.24945295" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Database Changes" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Application Servers" weight="0.32914045" />
-      <window_info active="true" anchor="bottom" id="Terminal" visible="true" weight="0.32914045" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
-      <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" weight="0.32914045" />
-      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
-      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
-      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="0" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="1" />
+      <window_info anchor="bottom" id="Version Control" order="2" visible="true" weight="0.32914045" />
+      <window_info anchor="bottom" id="Application Servers" order="3" weight="0.32914045" />
+      <window_info anchor="bottom" id="Terminal" order="4" weight="0.32914045" />
+      <window_info anchor="bottom" id="Event Log" order="5" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="6" />
+      <window_info anchor="bottom" id="Find" order="7" />
+      <window_info anchor="bottom" id="Debug" order="8" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="9" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="10" weight="0.4" />
+      <window_info anchor="bottom" id="Run" order="11" weight="0.32914045" />
+      <window_info anchor="bottom" id="TODO" order="12" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -332,14 +288,18 @@
     <option name="LAST_COMMIT_MESSAGE" value="Deploy" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/config/database.yml">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/Gemfile">
       <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/controllers/application_controller.rb">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="3" column="2" selection-start-line="3" selection-start-column="2" selection-end-line="3" selection-end-column="2" />
+        </state>
+      </provider>
     </entry>
   </component>
 </project>
